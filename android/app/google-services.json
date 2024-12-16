@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554738028536",
+    "project_id": "prueba-cf251",
+    "storage_bucket": "prueba-cf251.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554738028536:android:fd370fc71fad5a682f500d",
+        "android_client_info": {
+          "package_name": "com.example.app_autonomo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNc3X_566XIiVcwBj39TGs40MHInB9Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
